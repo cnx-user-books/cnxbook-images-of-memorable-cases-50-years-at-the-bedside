@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_109" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 109</title>
+  <content>
+
+<media id="idm4098416" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2259921">
+      <problem id="idm3299776">
+        <para id="id2262519">
+          <media id="idm5691216" alt=""><image src="../../media/Case_109-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2262553">The lower leg of a 37-year-old man who injured it 
+while gardening. Two weeks later, a small ulcer appeared at the injury site and 
+slowly expanded during the next month. The lesion did not improve with 
+antibiotic therapy.</para>
+      </problem>
+      <solution id="idp1552640">
+        <title>109. Lymphocutaneous sporotrichosis</title>
+        <para id="id2262574">A dermatologist saw this patient initially and 
+diagnosed pyoderma gangrenosum. But he only examined the lower leg. Had he 
+examined the entire leg, he might have noticed the telltale nodular lymphangitis 
+in the right thigh (image below) — a further clue to sporotrichosis in this 
+gardener. Culture of the lesion subsequently grew <emphasis>Sporothrix 
+schencki</emphasis>.</para>
+        <para id="id2262607">
+          <media id="idp549360" alt=""><image src="../../media/Case_109-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2262641">Other organisms that commonly cause nodular 
+lymphangitis after cutaneous inoculation include <emphasis>Nocardia 
+brasiliensis, Mycobacterium marinum, Leishmania brasiliensis,</emphasis> and 
+<emphasis>Francisella tularensis</emphasis>.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

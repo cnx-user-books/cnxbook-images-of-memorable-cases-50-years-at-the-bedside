@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_131" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 131</title>
+  <content>
+
+<media id="idp8139536" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2261907">
+      <problem id="idm366896">
+        <para id="id2264819">
+          <media id="idp13721600" alt=""><image src="../../media/Case_131-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2264853">The lesion on the neck of this homeless man had 
+been slowly enlarging for 18 months, unaccompanied by fever, weight loss, or 
+other systemic signs. On examination, the lesion was hard and nodular with 
+redness of the overlying skin; however, it was not painful, tender, or warm. 
+There were no other physical abnormalities, and results of conventional 
+laboratory tests were normal. Findings from computed tomography (CT) of the neck 
+were interpreted as those of an abscess. The same study performed on the patient 
+at another hospital one year earlier had prompted the same interpretation. Yet 
+no infection was established at that time, and the patient had left the hospital 
+before any therapy could be administered.</para>
+      </problem>
+      <solution id="idp14435632">
+        <title>131. Squamous cell carcinoma</title>
+        <para id="id2264888">Site of origin unknown. Given this patient’s 
+indolent course and absence of systemic manifestations, the main diagnostic 
+considerations were malignancy vs. chronic infection, particularly actinomycosis 
+or tuberculosis. Surgical biopsy of the lesion settled the issue.</para>
+        <para id="id2264906">This case illustrates an important point — as with 
+all tests, CT can be misinterpreted, and consequently misleading.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

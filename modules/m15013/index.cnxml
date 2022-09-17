@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_95" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 95</title>
+  <content>
+
+<media id="idp19269616" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+    <exercise id="id2257816">
+      <problem id="idp13481856">
+        <para id="id2260587">
+          <media id="idm1479424" alt=""><image src="../../media/Case_95-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2260621">Chest radiograph of a 61-year-old man with a 
+history of long-standing dysphagia and frequent vomiting.</para>
+      </problem>
+      <solution id="idp12912336">
+        <title>95. Achalasia</title>
+        <para id="id2260640">At first glance, the image suggests cardiomegaly 
+consequent to pericardial effusion or dilated myocardium. On closer inspection, 
+however, the right “heart” border is somewhat irregular and ill-defined. A 
+barium swallow (image below) showed that the abnormal “cardiac” configuration 
+represented a dilated esophagus.</para>
+        <para id="id2260656">
+          <media id="idp8107968" alt=""><image src="../../media/Case_95-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2260690">The medical literature appropriately indicates that 
+the dilated esophagus in patients with achalasia can sometimes be mistaken on 
+chest radiographs for mediastinal or pulmonary disease. This case demonstrates 
+that a dilated esophagus can also mimic cardiomegaly.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

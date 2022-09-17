@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_79" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 79</title>
+  <content>
+
+
+<media id="idm6964816" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2256254">
+      <problem id="idm5499360">
+        <para id="id2258773">
+          <media id="idm20121856" alt=""><image src="../../media/Case_79-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2258806">Peripheral blood film from a 60-year-old hunter 
+with headache, malaise, anorexia, and low-grade fever of two weeks’ 
+duration.</para>
+      </problem>
+      <solution id="idm11260096">
+        <title>79. Babesiosis</title>
+        <para id="id2258828">The diagnosis of this tick-borne disease depends on 
+finding the causative protozoan in the peripheral blood film. In this patient, 
+the film shows dumbbell-shaped markings in red blood cells, findings 
+characteristic of <emphasis>Babesia</emphasis> species (image below, arrows). 
+Not surprisingly, the blood film findings of babesiosis simulate those of 
+<emphasis>Plasmodium falciparum</emphasis> malaria.</para>
+        <para id="id2258850">
+          <media id="idp172640" alt=""><image src="../../media/Case_79-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </solution>
+    </exercise>
+  </content>
+</document>

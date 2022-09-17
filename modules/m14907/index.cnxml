@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_123" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 123</title>
+  <content>
+
+<media id="idm4420032" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2261287">
+      <problem id="idm7932480">
+        <para id="id2264150">
+          <media id="idm5603536" alt=""><image src="../../media/Case_123-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2264184">This 42-year-old cocaine addict complained of 
+longstanding nasal stuffiness and recurrent epistaxis. On examination, he had 
+crusting and ulceration of the nasal mucosa, perforation of the nasal septum, 
+and a hole in his soft palate.</para>
+      </problem>
+      <solution id="idm17096832">
+        <title>123. Cocaine-induced midline destructive lesion</title>
+        <para id="id2264206">Compulsive nasal insufflation of pulverized cocaine 
+can damage the nasal mucosa and lead to ischemic necrosis of the septal 
+cartilage and ultimate perforation of the nasal septum. The same mechanism 
+presumably accounts for the palatal abnormality shown in the image. 
+Differentiating these cocaine-induced lesions from those of limited Wegener’s 
+granulomatosis can be difficult, particularly if the patient does not readily 
+admit to substance abuse.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

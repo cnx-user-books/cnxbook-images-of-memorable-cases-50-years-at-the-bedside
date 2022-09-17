@@ -1,0 +1,33 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_92" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 92</title>
+  <content>
+
+<media id="idm14981216" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+    <exercise id="id2257338">
+      <problem id="idm5989136">
+        <para id="id2260174"><media id="idm5772000" alt=""><image src="../../media/Case_92-pres1-1.jpg" mime-type="image/jpeg"/></media> <media id="idm8640304" alt=""><image src="../../media/Case_92-pres1-3.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2260212"><media id="idm14300240" alt=""><image src="../../media/Case_92-pres1-2.jpg" mime-type="image/jpeg"/></media>
+          
+        </para>
+        <para id="id2260274">This 56-year-old alcoholic presented with lethargy 
+and increasing abdominal girth of six months’ duration. Her admitting diagnosis 
+was hepatic cirrhosis.</para>
+      </problem>
+      <solution id="idm14669648">
+        <title>92. Myxedema ascites</title>
+        <para id="id2260296">This patient’s facial features alone were enough to 
+suggest hypothyroidism. In addition, she had a low-pitched voice, dry skin, and 
+pseudomyotonic deep tendon reflexes. After two months of thyroid replacement 
+therapy, she was asymptomatic and looking like her old self again (images 
+below). Liver biopsy at that point showed normal findings. </para>
+        <para id="id2260312">
+          <media id="idm1351520" alt=""><image src="../../media/Case_92-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2260346">This case emphasizes that alcoholism plus ascites 
+doesn’t necessarily equal liver disease.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_70" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 70</title>
+  <content>
+
+<media id="idm8426608" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+    <exercise id="id2255184">
+      <problem id="idp2987584">
+        <para id="id2257494">
+          <media id="idp3180192" alt=""><image src="../../media/Case_70-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2257528">This 49-year-old woman presented with slowly 
+progressive, asymptomatic abdominal swelling of one year’s duration. Six years 
+earlier, she had undergone resection of a retroperitoneal liposarcoma. On 
+examination, her abdomen was incredibly enlarged, rock-hard, and 
+nontender.</para>
+      </problem>
+      <solution id="idp2597872">
+        <title>70. Metastatic liposarcoma</title>
+        <para id="id2257555">Computed tomography showed numerous non-homogeneous 
+masses of varying density compressing and displacing but not invading contiguous 
+abdominal and retroperitoneal organs (image below). At celiotomy, most of the 
+neoplastic tissue was removed in three large blocks totaling 100 lbs! The 
+histopathologic diagnosis was well-differentiated liposarcoma. Patients with 
+this cell type can have a five-year survival rate as high as 80%, while in those 
+with poorly differentiated lesions, survival drops to 20% or less. This patient 
+survived for a total of nine years, ultimately succumbing to widespread 
+metastases.</para>
+        <para id="id2257570">
+          <media id="idp12200496" alt=""><image src="../../media/Case_70-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2257604">Computed tomography at level of liver (A), mid-
+abdomen (B), and pelvis (C) after intravenous injection of contrast material. 
+L=liver, T=tumor.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

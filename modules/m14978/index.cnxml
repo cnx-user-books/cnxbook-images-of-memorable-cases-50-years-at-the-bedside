@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_57" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 57</title>
+  <content>
+
+<media id="idp3482464" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+    <exercise id="id2253927">
+      <problem id="idm4620576">
+        <para id="id2255917">
+          <media id="idm3900736" alt=""><image src="../../media/Case_57-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2255951">Chest radiograph of a 51-year-old man with fever 
+and shaking chills of two weeks’ duration. His physical examination was 
+unremarkable except for a temperature of 104°F.</para>
+      </problem>
+      <solution id="idm1142640">
+        <title>57. Pyogenic liver abscess</title>
+        <para id="id2255974">The chest radiograph shows a peculiar pattern of 
+mottled gas and an air-fluid level in the region of the liver. On computed 
+tomographic (CT) study of the abdomen, the scout film (below left) shows the gas 
+to be similar in appearance to, but separate from, intestinal gas. The CT scan 
+demonstrates a large liver abscess with an air-fluid level (below right). 
+Drainage of the abscess yielded 600 cc of pus, which grew <emphasis>Klebsiella 
+pneumoniae</emphasis>. </para>
+        <para id="id2256014">This case illustrates the value of the chest 
+radiograph in diagnosing disease <emphasis>below</emphasis> the 
+diaphragm.</para>
+        <para id="id2256039">
+          <media id="idp5367888" alt=""><image src="../../media/Case_57-diag1-1.jpg" mime-type="image/jpeg"/></media>
+          <media id="idm5596032" alt=""><image src="../../media/Case_57-diag1-2.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </solution>
+    </exercise>
+  </content>
+</document>

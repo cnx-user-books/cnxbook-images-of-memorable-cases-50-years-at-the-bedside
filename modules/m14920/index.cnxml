@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_140" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 140</title>
+  <content>
+
+<media id="idm10778128" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2262700">
+      <problem id="idm11688640">
+        <para id="id2265731">
+          <media id="idm3739568" alt=""><image src="../../media/Case_140-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2265765">This 47-year-old woman presented with a swollen and 
+minimally tender right thumb. She felt fine otherwise and had no additional 
+complaints.</para>
+      </problem>
+      <solution id="idm18923360">
+        <title>140. Cutaneous sarcoidosis with sarcoidal dactylitis</title>
+        <para id="id2265790">The papules on and around this patient’s nares, and 
+those on her upper eyelids near the inner canthus, strongly suggested 
+sarcoidosis. A radiograph of her affected right thumb demonstrated a lytic 
+lesion in the tip of the distal phalanx. Biopsies of that lesion and a nasal 
+papule showed noncaseating granulomas containing multinucleated giant cells 
+typical of sarcoidosis.</para>
+        <para id="id2265811">This case illustrates an important clinical point: 
+When bone lesions occur in patients with sarcoidosis, chronic sarcoidal skin 
+changes are almost always present as well.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

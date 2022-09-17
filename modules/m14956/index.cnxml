@@ -1,0 +1,31 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_34" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 34</title>
+  <content>
+
+<media id="idm13272256" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2251994">
+      <problem id="idm7860368">
+        <para id="id2253561">
+          <media id="idm14369328" alt=""><image src="../../media/Case_34-pres1-1.jpg" mime-type="image/jpeg"/></media>
+          <media id="idm79728" alt=""><image src="../../media/Case_34-pres1-2.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2253622">
+          <media id="idm1356912" alt=""><image src="../../media/Case_34-pres1-3.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2253656">This AIDS patient presented with a pruritic 
+eruption over most of his body. The lesions appeared as sharply demarcated, 
+thick plaques with distinct borders and silvery scales.</para>
+      </problem>
+      <solution id="idm5193520">
+        <title>34. Hyperkeratotic psoriasis</title>
+        <para id="id2253676">Biopsies from several plaques established the 
+diagnosis. In patients with AIDS, psoriasis is often severe and refractory to 
+conventional therapy. The differential diagnosis includes Norwegian scabies, 
+mycosis fungoides, and keratoderma blenorrhagica.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

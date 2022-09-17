@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_94" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 94</title>
+  <content>
+
+<media id="idm9452864" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2244474">
+      <problem id="idm18350416">
+        <para id="id2260457">
+          <media id="idm5419120" alt=""><image src="../../media/Case_94-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2260491">This 25-year-old Caucasian woman complained of 
+progressive headaches, visual difficulties, and darkening of her skin during the 
+preceding six months. Three years earlier, she had undergone bilateral 
+adrenalectomy for treatment of Cushing’s disease.</para>
+      </problem>
+      <solution id="idm5747696">
+        <title>94. Nelson’s syndrome</title>
+        <para id="id2260517">Development of an ACTH-producing, rapidly growing, 
+and often invasive pituitary tumor after bilateral adrenalectomy for Cushing’s 
+disease. The clinical manifestations are headache, visual field defects, 
+external ophthalmoplegias, and ACTH-induced hyperpigmentation similar to that of 
+Addison’s disease.</para>
+        <para id="id2260537">The patient shown had generalized hyperpigmentation 
+of her skin and mucosal surfaces, a large pituitary mass, bitemporal hemianopia, 
+and palsies of the right 3rd and 6th cranial nerves. After transphenoidal 
+resection of most of her pituitary tumor, coupled with postoperative radiation 
+therapy, her headaches resolved and her vision improved, but her 
+ophthalmoplegias and hyperpigmentation did not change.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

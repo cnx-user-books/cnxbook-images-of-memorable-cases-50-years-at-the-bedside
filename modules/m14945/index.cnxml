@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_23" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 23</title>
+  <content>
+
+<media id="idp6302064" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+    <exercise id="id2251042">
+      <problem id="idp6641248">
+        <para id="id2252451">
+          <media id="idm8494464" alt=""><image src="../../media/Case_23-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2252485">Chest radiograph of an asymptomatic 68-year-old 
+woman whose medical history and physical examination were unremarkable.</para>
+      </problem>
+      <solution id="idm6861744">
+        <title>23. Chronic aortic dissection</title>
+        <para id="id2252504">On close inspection, the distance between a 
+calcified plaque in this patient’s aortic arch and the outer edge of the arch 
+was 2 cm (normal, &lt;1 cm), suggesting dissection. Contrast-enhanced CT scan of 
+the chest (image below) confirmed the diagnosis by demonstrating a true and 
+false lumen separated by an intimal flap (arrow).</para>
+        <para id="id2252530">
+          <media id="idp4394064" alt=""><image src="../../media/Case_23-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2252564"/>
+      </solution>
+    </exercise>
+  </content>
+</document>

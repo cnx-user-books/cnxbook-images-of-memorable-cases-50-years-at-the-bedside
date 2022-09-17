@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_99" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 99</title>
+  <content>
+
+<media id="idm11813344" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2258186">
+      <problem id="idm9905568">
+        <para id="id2261071">
+          <media id="idm10390816" alt=""><image src="../../media/Case_99-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2261105">This 25-year-old woman presented with a five-month 
+history of redness, swelling, and blurred vision in her left eye. On 
+examination, the left eyelids were swollen and discolored, the conjunctiva 
+edematous and injected, and the globe moderately proptotic. Studies for neoplasm 
+and infection were negative, and results of thyroid function tests were normal. 
+The radioiodine uptake, however, was not suppressed by administration of 
+triiodothyronine.</para>
+      </problem>
+      <solution id="idm13619424">
+        <title>99. Euthyroid ophthalmic Graves’ disease</title>
+        <para id="id2261136">A form of infiltrative ophthalmopathy characterized 
+by swollen extraocular muscles, increased amounts of retroorbital fat, and 
+absence of toxic goiter. Early symptoms include a sense of irritation in the 
+eyes, excessive tearing, and blurred vision. Exophthalmos, ordinarily bilateral, 
+is the most common finding, along with reddened lids and weakness of the 
+extraocular muscles. The course is variable and unpredictable. Symptomatic care 
+often suffices in mild cases, while glucocorticoids, external radiation, or both 
+are useful in others. For extreme cases, orbital decompression may become 
+necessary.</para>
+        <para id="id2261155">The patient shown responded promptly but 
+incompletely to large doses of glucocorticoids (image below).</para>
+        <para id="id2261162">
+          <media id="idm4492192" alt=""><image src="../../media/Case_99-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </solution>
+    </exercise>
+  </content>
+</document>

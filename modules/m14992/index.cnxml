@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_71" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 71</title>
+  <content>
+
+
+<media id="idp7400368" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+    <exercise id="id2255305">
+      <problem id="idp5348048">
+        <para id="id2257624">
+          <media id="idp13921344" alt=""><image src="../../media/Case_71-pres1-1.jpg" mime-type="image/jpeg"/></media>
+          <media id="idp4560896" alt=""><image src="../../media/Case_71-pres1-2.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2257687">Chest radiographs of a 31-year-old medical resident 
+with recurrent bouts of hiccupping, associated at times with mild epigastric 
+distress. </para>
+      </problem>
+      <solution id="idm6486896">
+        <title>71. Colon interposition</title>
+        <para id="id2257707">The chest radiographs show a gas-distended, 
+lobulated, cystic structure with several air-fluid levels, filling the 
+precordial space from the diaphragm to the thoracic inlet. In addition, the 
+lateral aspects of three upper ribs on the right are deformed. These findings 
+together are diagnostic of a segment of colon surgically placed in the chest. A 
+barium swallow shows the intrathoracic segment of colon with a few diverticula 
+(image below). </para>
+        <para id="id2257719">
+          <media id="idm6885040" alt=""><image src="../../media/Case_71-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2257753">This patient had a congenital tracheoesophageal 
+fistula treated at birth with gastrostomy and at age two with colon 
+interposition between her cervical esophagus and her stomach. She has done 
+remarkably well ever since. </para>
+      </solution>
+    </exercise>
+  </content>
+</document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE document PUBLIC "-//CNX//DTD CNXML 0.5//EN" "http://cnx.rice.edu/technology/cnxml/schema/dtd/0.5/cnxml_plain.dtd">
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml/0.4" xmlns:bib="http://bibtexml.sf.net/" id="new">
+  <name>Images of Memorable Cases: Epilogue</name>
+  <metadata>
+  <md:version>**new**</md:version>
+  <md:created>2007/06/01 13:31:54.821 GMT-5</md:created>
+  <md:revised>2007/06/01 13:32:41.967 GMT-5</md:revised>
+  <md:authorlist>
+      <md:author id="cbearden">
+      <md:firstname>Charles</md:firstname>
+      <md:othername>F.</md:othername>
+      <md:surname>Bearden</md:surname>
+      <md:email>cbearden@rice.edu</md:email>
+    </md:author>
+  </md:authorlist>
+
+  <md:maintainerlist>
+    <md:maintainer id="cbearden">
+      <md:firstname>Charles</md:firstname>
+      <md:othername>F.</md:othername>
+      <md:surname>Bearden</md:surname>
+      <md:email>cbearden@rice.edu</md:email>
+    </md:maintainer>
+  </md:maintainerlist>
+  
+  
+
+  <md:abstract/>
+</metadata>
+  <content>
+<para id="p01">In attempting to provide a memorable conclusion, we came across the following thought-provoking quotation:
+
+<quote type="block">If the only tool you have is a hammer, you tend to see 
+every problem as a nail.</quote>
+<emphasis>Abraham Maslow</emphasis>
+</para>
+
+<para id="p02">In that light, we hope that this book has helped you find diagnostic tools that you didn’t know you had. 
+If it didn’t . . .
+<media src="heartbreak.jpeg" type="image/jpeg"/>
+we are heart-broken—like the “broken heart” in the image above.</para>
+
+<para id="p03">That heart, by the way, belonged to a 69-year-old woman who had undergone a coronary artery bypass procedure on Valentine’s Day. Postoperatively, the portable chest radiograph shown above disclosed a striking radiolucent line bisecting the patient’s heart. But on a follow-up radiograph made several hours later, the line had disappeared, proving that it was an artifact and not the result of the surgeon’s knife (or Cupid’s arrow). The cause of the artifact remains a mystery.</para>
+
+<para id="p04">That said, we hope you have enjoyed this journey as much as we have enjoyed charting it.</para>
+  </content>
+  
+</document>

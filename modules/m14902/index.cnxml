@@ -1,0 +1,38 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_119" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 119</title>
+  <content>
+
+<media id="idm2062480" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2260796">
+      <problem id="idm4261392">
+        <para id="id2263569">
+          <media id="idm7742016" alt=""><image src="../../media/Case_119-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2263607">
+          <media id="idm639072" alt=""><image src="../../media/Case_119-pres1-2.jpg" mime-type="image/jpeg"/></media>
+          <media id="idm9647872" alt=""><image src="../../media/Case_119-pres1-3.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2263670">This 40-year-old man complained of puffy eyes, dry 
+skin, and muscle stiffness of six months’ duration.</para>
+      </problem>
+      <solution id="idm6102096">
+        <title>119. Hypothyroid myopathy</title>
+        <para id="id2263707">Hoffmann’s syndrome. In addition to puffy eyelids 
+and dry skin, this patient had a markedly delayed relaxation phase of his deep 
+tendon reflexes and prominent enlargement of his right calf. On palpation, the 
+calf was firm but not tender. These physical findings prompted thyroid hormone 
+replacement therapy, and within six months, all of the aforementioned 
+abnormalities  disappeared.</para>
+        <para id="id2263727">Hoffman’s syndrome refers to varying degrees of 
+weakness, muscle stiffness, and increased muscle mass in adults with severe 
+hypothyroidism. The cause of the increased muscle mass awaits clarification. On 
+histopathologic examination, the involved muscles have densely packed fibers 
+with variable diameters and loss of normal striations. One or both calf muscles 
+are among the more commonly involved sites, but almost any muscle group may be 
+affected. Thyroid hormone therapy is curative.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

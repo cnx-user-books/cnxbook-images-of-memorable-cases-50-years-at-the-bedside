@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" id="Case_2" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 2</title>
+  <content>
+
+<media id="idm13751328" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2248682">
+      <problem id="idm4783472">
+        <para id="id2249639">
+          <media id="idm5700160" alt=""><image src="../../media/Case_2-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2249672">This patient sought medical attention for 
+diarrhea.</para>
+      </problem>
+      <solution id="idm8682992">
+        <title>2. Pellagra</title>
+        <para id="id2249715">Niacin (vitamin <m:math>
+	    <m:ci>
+	      <m:msub>
+	        <m:mi>B</m:mi>
+	        <m:mn>3</m:mn>
+	      </m:msub>
+	    </m:ci>
+	  </m:math>) deficiency. The dermatologic features of this disorder 
+include desquamation, erythema, scaling, and keratosis of sun-exposed areas, all 
+of which this patient had. Note below the absence of changes in the sun-shielded 
+area.</para>
+        <para id="id2249746">
+          <media id="idm10268976" alt=""><image src="../../media/Case_2-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </solution>
+    </exercise>
+  </content>
+</document>

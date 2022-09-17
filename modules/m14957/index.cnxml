@@ -1,0 +1,35 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_35" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 35</title>
+  <content>
+
+<media id="idm7393264" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2252100">
+      <problem id="idm8201136">
+        <para id="id2253698">
+          <media id="idm10853472" alt=""><image src="../../media/Case_35-pres1-1.jpg" mime-type="image/jpeg"/></media>
+          <media id="idm8940912" alt=""><image src="../../media/Case_35-pres1-2.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2253759">Urine sediment and colonic mucosa from a 53-year-
+old woman with nonproductive cough, reticulonodular densities on chest 
+radiograph, chronic diarrhea, and recent treatment with large doses of 
+corticosteroids.</para>
+      </problem>
+      <solution id="idm4764784">
+        <title>35. Disseminated strongyloidiasis</title>
+        <para id="id2253786">The free-swimming worms in this patient’s urine 
+proved to be larvae of <emphasis>Strongyloides stercoralis. </emphasis>These 
+larvae were also identified in her colonic mucosa (image below, arrows). 
+Although finding larvae in the urine of patients with disseminated 
+strongyloidiasis is rare, it points immediately to the correct diagnosis and 
+prevents what could become a baffling clinical problem with a fatal 
+outcome.</para>
+        <para id="id2253804">
+          <media id="idm9263648" alt=""><image src="../../media/Case_35-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </solution>
+    </exercise>
+  </content>
+</document>

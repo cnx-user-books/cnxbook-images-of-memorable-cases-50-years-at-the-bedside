@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_150" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 150</title>
+  <content>
+
+<media id="idm6824912" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+    <exercise id="id2263983"><problem id="idm1704448">
+		<para id="id2267271">
+			<media id="idm1680880" alt=""><image src="../../media/Case_150-pres1-1.jpg" mime-type="image/jpeg"/></media>1
+        </para>
+		<para id="id2267310">
+			<media id="idm6319024" alt=""><image src="../../media/Case_150-pres1-2.jpg" mime-type="image/jpeg"/></media>2
+          <media id="idm14835824" alt=""><image src="../../media/Case_150-pres1-3.jpg" mime-type="image/jpeg"/></media>3
+        </para>
+		<para id="id2267406">
+			<media id="idm6763808" alt=""><image src="../../media/Case_150-pres1-4.jpg" mime-type="image/jpeg"/></media>4
+          <media id="idm6508928" alt=""><image src="../../media/Case_150-pres1-5.jpg" mime-type="image/jpeg"/></media>5
+        </para>
+		<para id="id2267506">This 42-year-old woman was asymptomatic 
+except for lymphedema in both lower legs.</para>
+	</problem>
+	<solution id="idm4611072">
+		<title>150. Klippel-Trenaunay syndrome</title>
+		<para id="id2267525">A rare, sporadic, congenital vascular 
+disorder of unknown cause characterized by the triad of overgrowth and 
+hypertrophy of soft tissues and bones (images 1-4), hemangiomas (usually of the 
+port wine type [image 1]), and varicose veins — all on the same side. All three 
+elements, however, are not invariably present and are not necessarily 
+proportionate in severity or extent. These abnormalities may be localized to one 
+extremity or affect as much as an entire half of the body. When the involved 
+tissues contain hemodynamically significant arteriovenous communications, the 
+condition is called the Klippel-Trenaunay-Weber syndrome.</para>
+		<para id="id2267558">In most cases, the hemangiomas are evident 
+at birth or shortly thereafter, while the soft tissue and bony changes become 
+more apparent after several years. Varicosities are not usually detected until 
+the child spends more time upright. </para>
+		<para id="id2267572">Associated findings may include digital 
+anomalies, hemangioma-related urinary and rectal bleeding, and various lymphatic 
+disturbances, especially lymphedema (image 5).</para>
+		<para id="id2267584">Prognosis is good, and treatment is mainly 
+symptomatic.</para>
+	</solution>
+</exercise>
+  </content>
+</document>

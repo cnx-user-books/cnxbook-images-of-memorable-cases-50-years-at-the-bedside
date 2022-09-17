@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_112" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 112</title>
+  <content>
+
+<media id="idm16954272" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2260277">
+      <problem id="idm3375552">
+        <para id="id2262956">
+          <media id="idm7315280" alt=""><image src="../../media/Case_112-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2262990">This 40-year-old man presented with bilateral 
+cataracts and complete heart block.</para>
+      </problem>
+      <solution id="idm6894368">
+        <title>112. Myotonic dystrophy</title>
+        <para id="id2263008">An autosomal dominant form of muscular dystrophy 
+characterized by abnormally prolonged muscle contraction after active motion or 
+mechanical stimulation. Typical associated features are frontal alopecia; lens 
+opacities; atrophy of the temporalis, zygomaticus, and sternocleidomastoid 
+muscles; and gonadal atrophy in men. Widespread smooth muscle involvement may 
+also cause cardiac conduction disturbances and arrhythmias, esophageal and 
+colonic dysfunction, and respiratory disability.</para>
+        <para id="id2263026">The patient shown had early frontal balding, 
+wasting of his temporal and facial muscles, and virtually no visible neck or 
+shoulder muscles. His inability to immediately relax his grip after the 
+introductory handshake sealed the diagnosis.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

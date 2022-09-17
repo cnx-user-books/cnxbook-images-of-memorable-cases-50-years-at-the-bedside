@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_45" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 45</title>
+  <content>
+
+<media id="idm10937152" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2252901">
+      <problem id="idp2579040">
+        <para id="id2254627">
+          <media id="idp978224" alt=""><image src="../../media/Case_45-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </problem>
+      <solution id="idm414720">
+        <title>45. Lipemia retinalis</title>
+        <para id="id2254668">
+          <media id="idm11046880" alt=""><image src="../../media/Case_45-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2254702">As a result of the chylomicron-rich blood within 
+them, all retinal vessels in this disorder appear creamy white, salmon-pink, or 
+yellow-gray. Consequently, arteries are distinguishable from veins only by their 
+smaller caliber. This funduscopic appearance generally occurs only when the 
+serum triglyceride concentration exceeds 4000 mg/dL. In this patient, the serum 
+triglyceride level was 21,040 mg/dL, and the serum looked like cream (image 
+above).</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" id="Case_27" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 27</title>
+  <content>
+
+<media id="idm1495728" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2251479">
+      <problem id="idm4763504">
+        <para id="id2252995">
+          <media id="idm1962624" alt=""><image src="../../media/Case_27-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2253028">Chest radiograph of a 32-year-old man with fever 
+and nonproductive cough of two weeks’ duration.</para>
+      </problem>
+      <solution id="idm5556512">
+        <title>27. Eosinophilic pneumonia</title>
+        <para id="id2253049">Diffuse infiltrates in the periphery of both lungs, 
+with relative sparing of the perihilar regions, is characteristic of 
+eosinophilic pneumonia. This patient’s total leukocyte count was 18,000/<m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mstyle fontsize="12pt">
+              <m:mrow>
+                <m:mstyle fontstyle="italic">
+                  <m:mrow>
+                    <m:msup>
+                      <m:mtext>mm</m:mtext>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                  </m:mrow>
+                </m:mstyle>
+              </m:mrow>
+            </m:mstyle>
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{ ital "mm" rSup { size 
+8{3} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> with 20% eosinophils. After a week of corticosteroid therapy 
+alone, his symptoms, radiographic abnormalities, and eosinophilia 
+resolved.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

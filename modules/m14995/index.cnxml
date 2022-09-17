@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_74" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 74</title>
+  <content>
+
+<media id="idm10838784" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2255684">
+      <problem id="idp4207328">
+        <para id="id2258104">
+          <media id="idm1201008" alt=""><image src="../../media/Case_74-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2258138">Routine chest radiograph of an asymptomatic 50-
+year-old man. The same study five years earlier had shown no abnormality.</para>
+        <para id="id2258144"/>
+      </problem>
+      <solution id="idm539440">
+        <title>74. Metastatic carcinoma of the prostate</title>
+        <para id="id2258168">The radiograph shows a solitary “white” fourth rib 
+on the left side. Such a finding in a middle-aged or older man should always 
+suggest osteoblastic metastasis, particularly from carcinoma of the prostate. In 
+this patient, biopsies of the prostate and affected rib disclosed 
+adenocarcinoma.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

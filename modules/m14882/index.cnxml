@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_1" module-id="" cnxml-version="0.7">
+
+  <title>Images of Memorable Cases: Case 1</title>
+  <content>
+
+<media id="idp2903072" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2245289">
+      <problem id="idp6453744">
+        <para id="id2249414">
+          <media id="idm16274960" alt=""><image src="../../media/Case_1-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2249453">
+          <media id="idm5370304" alt=""><image src="../../media/Case_1-pres1-2.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2249486">
+          <media id="idm11768288" alt=""><image src="../../media/Case_1-pres1-3.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2249519">This man could not walk or open his hands because 
+of the pain induced by the lesions on his soles and palms. He had no oral 
+complaints.</para>
+      </problem>
+      <solution id="idp2132416">
+        <title>1. Keratosis palmaris et plantaris</title>
+        <para id="id2249559">A heredofamilial ectodermal defect transmitted as a 
+mendelian dominant, affecting all races, and appearing in both sexes with about 
+equal frequency. Hyperkeratosis of the palms and soles characterize this 
+disorder, but involvement of the gums and tongue—especially to the extent 
+exhibited by this patient—has not been described heretofore. Moreover, the 
+degree of keratosis of his feet (image below) is remarkable, perhaps 
+unique.</para>
+        <para id="id2249593">
+          <media id="idm2734352" alt=""><image src="../../media/Case_1-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </solution>
+    </exercise>
+  </content>
+</document>

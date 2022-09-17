@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_30" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 30</title>
+  <content>
+
+<media id="idm4364048" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2251651">
+      <problem id="idm4903312">
+        <para id="id2253173">
+          <media id="idm6719232" alt=""><image src="../../media/Case_30-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2253221">
+          <media id="idm5541024" alt=""><image src="../../media/Case_30-pres1-2.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </problem>
+      <solution id="idm2966832">
+        <title>30. Tophaceous gout</title>
+        <para id="id2253262">The nodules on this patient’s finger, ear, toe, and 
+external maleolus are tophi. Diagnostic proof emerged when the tophus on her 
+finger discharged chalky-white material containing needle-shaped sodium urate 
+crystals that were negatively birefringent under polarized light 
+microscopy.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

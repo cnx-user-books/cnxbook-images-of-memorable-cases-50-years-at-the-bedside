@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_98" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 98</title>
+  <content>
+
+<media id="idm4435264" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2258086">
+      <problem id="idm11225264">
+        <para id="id2260952">
+          <media id="idm7533712" alt=""><image src="../../media/Case_98-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2260990">
+          <media id="idm4399024" alt=""><image src="../../media/Case_98-pres1-2.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </problem>
+      <solution id="idm8605968">
+        <title>98. Neurofibromatosis Type 2</title>
+        <para id="id2261032">An autosomal dominant disorder affecting about one 
+in 50,000 individuals. Diagnostic criteria for this type include bilateral 
+cranial nerve VIII tumors or a first-degree relative with type 2, and either a 
+unilateral cranial nerve VIII tumor or two of the following: dermal or 
+subcutaneous neurofibromas, plexiform neurofibroma, Schwannoma, glioma, 
+meningioma, or juvenile subcapsular lenticular opacity. </para>
+        <para id="id2261050">The 43-year-old woman shown had scattered dermal 
+and subcutaneous neurofibromas together with plexiform neurofibromas of both 
+breasts and left foot. Her mother had bilateral cranial nerve VIII 
+tumors.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

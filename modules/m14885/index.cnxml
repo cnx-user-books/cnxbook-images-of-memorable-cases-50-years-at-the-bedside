@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_101" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 101</title>
+  <content>
+
+<media id="idp8244752" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+
+    <exercise id="id2258404">
+      <problem id="idm2170912">
+        <para id="id2261353">
+          <media id="idp2797456" alt=""><image src="../../media/Case_101-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2261387">This severely ill 22-year-old man had the abrupt 
+onset of headache, distressing myalgia, shaking chills, and rapid collapse. On 
+examination, he was delirious, with a temperature of 104° F.</para>
+      </problem>
+      <solution id="idp3413248">
+        <title>101. Leptospirosis </title>
+        <para id="id2261410">Blood from this man grew <emphasis>Leptospira 
+icterohemorrhagiae</emphasis>, prompting therapy with high-dose intravenous 
+penicillin. After a course characterized by renal and hepatic failure, the 
+patient ultimately made a full recovery. He presumably became infected through 
+contact with the urine of rats that infested his home.</para>
+        <para id="id2261441">The diagnostic clue in this case is the combination 
+of icteric sclerae and hemorrhagic conjunctivae; hence the term 
+“icterohemorrhagiae.”</para>
+        <para id="id2261455">Leptospirosis presents in various ways, from 
+inapparent to fulminating and fatal disease. About 90% of symptomatic patients 
+manifest a mild influenza-like illness that typically resolves uneventfully 
+within two to three weeks. Only a small proportion develop hemorrhagic 
+complications or hepatorenal failure, and of those, only 10% to 20% die.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

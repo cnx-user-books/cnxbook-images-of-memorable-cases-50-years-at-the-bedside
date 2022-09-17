@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_65" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 65</title>
+  <content>
+
+<media id="idm15311792" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2254593">
+      <problem id="idm7507536">
+        <para id="id2256771">
+          <media id="idp3008304" alt=""><image src="../../media/Case_65-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2256805">Chest radiograph of a 68-year-old man with a serum 
+calcium of 13.5 mg/dL and a serum electrophoresis showing a monoclonal spike of 
+4.4 gm/dL. His physical examination, complete blood count, and urinalysis were 
+normal.</para>
+      </problem>
+      <solution id="idm8925072">
+        <title>65. Multiple myeloma</title>
+        <para id="id2256838">Each of the large masses on the chest radiograph 
+was contiguous with a partially destroyed rib (image below, arrowheads). 
+Biopsies of one of the masses and of the bone marrow showed sheets of plasma 
+cells. The masses, therefore, represented expanding plasmacytomas of ribs rather 
+than pulmonary parenchymal lesions. </para>
+        <para id="id2256848">
+          <media id="idp2937888" alt=""><image src="../../media/Case_65-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2256882">Chest disease in multiple myeloma can manifest as 
+infection or bone lesions, complicated at times by pleural effusion.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

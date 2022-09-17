@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_10" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 10</title>
+  <content>
+
+<media id="idp4596768" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2245621">
+      <problem id="idm4029008">
+        <para id="id2250726">
+          <media id="idm13283760" alt=""><image src="../../media/Case_10-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2250759">This young adult experienced the acute onset of 
+tender, enlarged lymph nodes in both groins.</para>
+      </problem>
+      <solution id="idm7571776">
+        <title>10. Lymphogranuloma venereum</title>
+        <para id="id2250778">A sexually transmitted infection caused by 
+<emphasis>Chlamydia trachomatis</emphasis>. In this patient, affected lymph 
+nodes above and below the inguinal fold created the “groove sign” bilaterally. 
+Although not pathognomonic, this sign is characteristic of lymphogranuloma 
+venereum and should immediately suggest the diagnosis.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

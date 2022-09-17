@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_67" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 67</title>
+  <content>
+
+
+<media id="idm10902224" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2254818">
+      <problem id="idm19268992">
+        <para id="id2257034">
+          <media id="idm1490288" alt=""><image src="../../media/Case_67-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2257068">Peripheral blood film from a native of West 
+Africa.</para>
+      </problem>
+      <solution id="idm11406208">
+        <title>67. Loiasis</title>
+        <para id="id2257085">The image shows a sheathed microfilaria of 
+<emphasis>Loa loa</emphasis>, a threadlike worm distributed irregularly in West 
+and Central Africa. Flies of the genus Chrysops are the intermediate hosts and 
+vectors. Adult worms inhabit the subcutaneous connective tissues of the body, 
+causing localized edema called “Calabar swellings.” Occasionally, the adult worm 
+can be seen crossing the eye beneath the conjunctiva. The immature forms 
+(microfilariae) are diurnal and appear in greatest concentrations in daytime 
+blood. Finding the microfilariae in routine blood films establishes the 
+diagnosis.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

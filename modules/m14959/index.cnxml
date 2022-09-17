@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_37" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 37</title>
+  <content>
+
+<media id="idm2528624" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;  border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+
+    <exercise id="id2252310">
+      <problem id="idm4775616">
+        <para id="id2253982">
+          <media id="idm3440896" alt=""><image src="../../media/Case_37-pres1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2254016">Plain abdominal radiograph of a 60-year-old woman 
+with progressive periumbilical pain and abdominal distention of three days’ 
+duration.</para>
+      </problem>
+      <solution id="idp3199696">
+        <title>37. Hepatic portal venous gas</title>
+        <para id="id2254038">The radiographic hallmark of this condition is a 
+spidery pattern of tubular radiolucencies branching toward the liver edge (image 
+below). Gas in the biliary tract is located more centrally and may appear in the 
+gallbladder and extrahepatic biliary ducts as well. </para>
+        <para id="id2254048">
+          <media id="idm2035600" alt=""><image src="../../media/Case_37-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2254081">Hepatic portal venous gas usually indicates 
+necrotic bowel in adults and necrotizing enterocolitis in infants. Emergency 
+celiotomy in this patient demonstrated gangrene of the jejunum and gas in the 
+portal vein. Blood cultures grew <emphasis>Klebsiella</emphasis> and 
+<emphasis>Enterococcus</emphasis> species. The patient died 10 days after 
+surgery.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

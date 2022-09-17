@@ -1,0 +1,42 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_103" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 103</title>
+  <content>
+
+<media id="idm11634448" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2259326"><problem id="idm7963136">
+        <para id="id2261665"><media id="idm8794464" alt=""><image src="../../media/Case_103-pres1-1.jpg" mime-type="image/jpeg"/></media>
+          <media id="idp496160" alt=""><image src="../../media/Case_103-pres1-2.jpg" mime-type="image/jpeg"/></media>
+
+        </para>
+        <para id="id2261699">This 90-year-old asymptomatic woman was found 
+living under a bridge. She was unable to supply a reliable medical 
+history.</para>
+      </problem>
+      <solution id="idm10246176">
+        <title>103. Leprosy</title>
+        <para id="id2261723">Hansen’s disease, lepromatous type. The patient’s 
+facial nodules and plaques, coupled with nodules on her arms and neck, 
+immediately suggested leprosy. A biopsy specimen from a nodule on her arm showed 
+numerous acid-fast organisms in clusters (image below). The rest of her physical 
+examination and results of routine laboratory tests were unremarkable. 
+Subsequently, the patient was transferred to the U.S. Public Health Service 
+Hospital, Carville, Louisiana, for long-term management.</para>
+        <para id="id2261743">Patients with lepromatous leprosy have no cell-
+mediated immunity to the causative agent, <emphasis>Mycobacterium leprae. 
+</emphasis>Consequently, they have diffuse disease, with many lesions containing 
+large numbers of bacteria. By contrast, patients with tuberculoid leprosy have a 
+high degree of cell-mediated immunity to<emphasis> M leprae. </emphasis>As a 
+result, they have localized disease with one or two skin lesions and relatively 
+few bacteria.</para>
+        <para id="id2261782">
+          <media id="idm10006192" alt=""><image src="../../media/Case_103-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+        <para id="id2261816">One final point. The incubation period for leprosy 
+is uniquely long among bacterial diseases, with a minimum of two to three years, 
+an average of five to seven years, and a maximum of 40 to 50 years.</para>
+      </solution>
+    </exercise>
+  </content>
+</document>

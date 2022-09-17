@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml" id="Case_104" module-id="" cnxml-version="0.7">
+  <title>Images of Memorable Cases: Case 104</title>
+  <content>
+
+<media id="idm17586960" alt="" display="block"><image src="http://rup.rice.edu/memcases-button.jpg" mime-type="image/jpeg"><param name="align" value="right"/><param name="style" value="padding: 5px; margin-left: 5px; border: solid;   border-width:2px; border-color:#002469;     cursor: pointer;"/><param name="onclick" value="window.open('http://rup.rice.edu/memorable.html','','');"/><param name="onmouseover" value="document.body.style.cursor = 'hand';"/><param name="onmouseout" value="document.body.style.cursor = 'default';"/></image></media>
+
+
+    <exercise id="id2259443">
+      <problem id="idm10848576">
+        <para id="id2261836"><media id="idm9205536" alt=""><image src="../../media/Case_104-pres1-1.jpg" mime-type="image/jpeg"/></media>1:00 PM</para>
+        <para id="id2261876"><media id="idm17168528" alt=""><image src="../../media/Case_104-pres1-2.jpg" mime-type="image/jpeg"/></media> 1:02 PM</para>
+        <para id="id2261920"><media id="idm6562880" alt=""><image src="../../media/Case_104-pres1-3.jpg" mime-type="image/jpeg"/></media> 1:09 PM</para>
+      </problem>
+      <solution id="idm2026448">
+        <title>104. Myasthenia gravis</title>
+        <para id="id2261977">This 25-year-old man presented with bilateral 
+ptosis (greater on the left) and diplopia. He also complained of generalized 
+weakness that worsened as effort increased or as the day progressed. </para>
+        <para id="id2261990">The images depict the patient showing a positive 
+response to edrophonium chloride (Tensilon). His assay for acetylcholine-
+receptor antibodies—a test specific for myasthenia gravis—was also positive. He 
+underwent thymectomy (image below) and subsequently functioned well with 
+maintenance corticosteroid therapy.</para>
+        <para id="id2262005">
+          <media id="idm17559808" alt=""><image src="../../media/Case_104-diag1-1.jpg" mime-type="image/jpeg"/></media>
+        </para>
+      </solution>
+    </exercise>
+  </content>
+</document>
